@@ -1,2 +1,2 @@
 # html-portfolio
-An html portfolio going to be upgrading it over-time. A personal journey
+An HTML portfolio will be upgraded overtime. A personal journey into the full-stack world
